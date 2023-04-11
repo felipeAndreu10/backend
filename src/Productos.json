@@ -1,0 +1,11 @@
+[
+	{
+		"title": "banana",
+		"description": "fruta",
+		"price": 100,
+		"thumbnail": "imagen",
+		"stock": 8,
+		"code": 10001,
+		"id": 1
+	}
+]
